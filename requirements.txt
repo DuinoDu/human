@@ -1,0 +1,3 @@
+Pillow
+lxml
+opencv-python
