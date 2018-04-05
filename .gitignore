@@ -224,7 +224,7 @@ TSWLatexianTemp*
 *.pyc
 __pycache__
 
-evaluate/caltech
-evaluate/kitti
-evaluate/citypersons
+pedestrian/evaluate/caltech
+pedestrian/evaluate/kitti
+pedestrian/evaluate/citypersons
 *.zip
